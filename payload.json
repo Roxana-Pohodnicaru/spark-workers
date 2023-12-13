@@ -14,7 +14,7 @@
         "diskSizeGb": "10",
         "diskType": "projects/decent-genius-400314/zones/europe-west1-b/diskTypes/pd-standard",
         "labels": {},
-        "sourceImage": "projects/debian-cloud/global/images/debian-11-bullseye-v20231115"
+        "sourceImage": "projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20231201"
       },
       "mode": "READ_WRITE",
       "type": "PERSISTENT"
