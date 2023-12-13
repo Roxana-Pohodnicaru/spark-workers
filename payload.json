@@ -9,7 +9,7 @@
     {
       "autoDelete": true,
       "boot": true,
-      "deviceName": "slave4",
+      "deviceName": "slave5",
       "initializeParams": {
         "diskSizeGb": "10",
         "diskType": "projects/decent-genius-400314/zones/europe-west1-b/diskTypes/pd-standard",
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "name": "slave4",
+  "name": "slave5",
   "networkInterfaces": [
     {
       "accessConfigs": [
